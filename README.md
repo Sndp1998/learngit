@@ -1,4 +1,4 @@
-# Javascript Applicatons From Clever Programmer Channel
+# Javascript Applications From Clever Programmer Channel
 1. Age In Days
 2. Cat Generator
 3. Rock, Paper, Scissors
